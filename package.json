@@ -103,7 +103,8 @@
       "APIProductPoliciesTab": "./components/apiproduct/APIProductPoliciesTab",
       "APIProductDefinitionTab": "./components/apiproduct/APIProductDefinitionTab",
       "useDNSPolicyActions": "./components/dnspolicy/useDNSPolicyActions",
-      "useTLSPolicyActions": "./components/tlspolicy/useTLSPolicyActions"
+      "useTLSPolicyActions": "./components/tlspolicy/useTLSPolicyActions",
+      "useOIDCPolicyActions": "./components/oidcpolicy/useOIDCPolicyActions"
     },
     "dependencies": {
       "@console/pluginAPI": "*"
